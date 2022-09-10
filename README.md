@@ -1,1 +1,1 @@
-# Python-Data-Class-1
+# 10Alytics_Group 7_Netflix_EDA Project
